@@ -1,0 +1,6 @@
+name: AnvilFormatPlug
+version: '1.0.0'
+main: com.github.anvilformatplug.AnvilFormatPlug
+api-version: '1.21'
+author: San0M
+description: Native anvil color and formatting plugin
